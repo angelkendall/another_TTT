@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qk/zNqyDV3csEzWozAnhgrLCRd0FrsfjaFUx/XUrTc91veas0hesPt91UlEgJ8pNM7klYDw6Zgq7ecI6c0WonQ==",
+  "dgSpecHash": "iibSfNmObHAMaDPyVNsPffCnLXUvs9J0Zd01rgD2mr0mkhzxvxibxHj04fVE/lCHkNH1ceODTdCbsNE2w8Qj6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\angel\\Desktop\\TicTacToe\\TicTacToe.csproj",
+  "projectFilePath": "C:\\Dev\\another_TTT\\TicTacToe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
